@@ -1,4 +1,18 @@
+### Site in github
+https://marimax004.github.io
+
+### Admin:
+login: Maria.ms004@mail.ru
+
+pass: test123
 # openway5.4
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Backend:
+https://github.com/MariMax004/OpenWay54Backend
 
 ## Project setup
 ```
@@ -20,16 +34,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Site in github
-https://marimax004.github.io
-
-### Admin:
-login: Maria.ms004@mail.ru
-
-pass: test123
-
-### Backend:
-https://github.com/MariMax004/OpenWay54Backend
