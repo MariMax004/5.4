@@ -25,3 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Site in github
 https://marimax004.github.io
+
+### Admin:
+login: Maria.ms004@mail.ru
+pass: test123
